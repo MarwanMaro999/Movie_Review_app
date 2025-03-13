@@ -47,4 +47,4 @@ keras
 5. Model evaluation and testing
 
 # Project Video
-https://github.com/user-attachments/assets/e5d5a06f-07b9-4826-b5d7-7457de30a85c
+https://github.com/MarwanMaro999/Movie_Review_app/blob/main/README.md
